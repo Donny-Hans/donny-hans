@@ -1,7 +1,9 @@
 ## Ola Me Chamo Donny-Hans,Sou Desenvolver Frontend 💻!
 
 
-Meu nome é Donny-Hans e sou um programador frontend em transição para o desenvolvimento backend desde janeiro. Possuo proficiência em diversas linguagens, incluindo JavaScript, Node.js, HTML/CSS, Python e Java. Além disso, tenho experiência sólida com plataformas em nuvem como Oracle Cloud e Google Cloud, bem como com o gerenciamento de banco de dados MySQL
+Meu nome é Donny-Hans e sou programador frontend em transição para o desenvolvimento backend desde janeiro 2023. 
+Possuo proficiência em diversas linguagens, incluindo JavaScript, Node.js, HTML/CSS, Python e Java. 
+Além disso, tenho experiência sólida com plataformas em nuvem como Oracle Cloud e Google Cloud, bem como com o gerenciamento de banco de dados MySQL
 ##
 <div align="center">
   <a href="[(https://github.com/Donny-Hans)]">
